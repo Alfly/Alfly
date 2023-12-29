@@ -4,7 +4,7 @@ Welcome to my page!
 
 <!-- https://www.artstation.com/artwork/zDZmz2 -> https://www.iloveimg.com/crop-image/crop-gif -->
 <!-- [![](https://github.com/Alfly/Alfly/blob/master/pika-running.gif)](#) -->
-<img align='right' src="https://github.com/Alfly/Alfly/blob/master/deep-thinking.gif" width="400">
+<img align='right' src="https://github.com/Alfly/Alfly/blob/master/deep-thinking.gif" width="300">
 
 ### About Me
 
