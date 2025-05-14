@@ -8,8 +8,6 @@ Welcome to my page!
 
 ### About Me
 
-- 🌏 I'm a student from Nanjing, China.
-- 🎯 I'm currently learning **Go** to become a backend engineer.
 - 🤔 My interests lie in Go, C/C++, and Middleware.
 - ⚡ Fun fact: I love photography, fitness, and swimming.
 
